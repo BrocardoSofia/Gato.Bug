@@ -1,0 +1,6380 @@
+fileFormatVersion: 2
+guid: eb17eaf9730c5b845a63e94eba0fef96
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3309832857352601624
+    second: listado de reglas_0
+  - first:
+      213: -6751455153670974575
+    second: listado de reglas_1
+  - first:
+      213: 6899896915238692026
+    second: listado de reglas_2
+  - first:
+      213: -5508046439419545596
+    second: listado de reglas_3
+  - first:
+      213: 5778173618875906021
+    second: listado de reglas_4
+  - first:
+      213: 2477258977642843735
+    second: listado de reglas_5
+  - first:
+      213: -4217262830411976278
+    second: listado de reglas_6
+  - first:
+      213: 2785053029089985585
+    second: listado de reglas_7
+  - first:
+      213: -220419535194705389
+    second: listado de reglas_8
+  - first:
+      213: 1339166245171969438
+    second: listado de reglas_9
+  - first:
+      213: -521982483169296095
+    second: listado de reglas_10
+  - first:
+      213: -7295045733026877999
+    second: listado de reglas_11
+  - first:
+      213: -1517989432345694418
+    second: listado de reglas_12
+  - first:
+      213: 5052554765932634511
+    second: listado de reglas_13
+  - first:
+      213: 3715007754836452601
+    second: listado de reglas_14
+  - first:
+      213: 7246088031178415532
+    second: listado de reglas_15
+  - first:
+      213: -6788905988719663757
+    second: listado de reglas_16
+  - first:
+      213: -8522219231773542814
+    second: listado de reglas_17
+  - first:
+      213: -5477870994987467043
+    second: listado de reglas_18
+  - first:
+      213: 1703454763976968951
+    second: listado de reglas_19
+  - first:
+      213: -8576671057305468491
+    second: listado de reglas_20
+  - first:
+      213: -3741976680741914572
+    second: listado de reglas_21
+  - first:
+      213: -8279181297717144676
+    second: listado de reglas_22
+  - first:
+      213: 3487046396161779579
+    second: listado de reglas_23
+  - first:
+      213: -3878648878024646869
+    second: listado de reglas_24
+  - first:
+      213: 8947278570771183403
+    second: listado de reglas_25
+  - first:
+      213: 8679216203840183023
+    second: listado de reglas_26
+  - first:
+      213: 3977392500025343521
+    second: listado de reglas_27
+  - first:
+      213: -5954938285632948777
+    second: listado de reglas_28
+  - first:
+      213: -4036690406423075967
+    second: listado de reglas_29
+  - first:
+      213: 1647917210431075770
+    second: listado de reglas_30
+  - first:
+      213: 684166457438726695
+    second: listado de reglas_31
+  - first:
+      213: 6327333020938115272
+    second: listado de reglas_32
+  - first:
+      213: 2226418809436765801
+    second: listado de reglas_33
+  - first:
+      213: -7593671405235966968
+    second: listado de reglas_34
+  - first:
+      213: -4057921688065860896
+    second: listado de reglas_35
+  - first:
+      213: 3748013635114250993
+    second: listado de reglas_36
+  - first:
+      213: -4044247088053661956
+    second: listado de reglas_37
+  - first:
+      213: 4430501604852909256
+    second: listado de reglas_38
+  - first:
+      213: -6819538294717736709
+    second: listado de reglas_39
+  - first:
+      213: -1848723457583450122
+    second: listado de reglas_40
+  - first:
+      213: 1020898570006943675
+    second: listado de reglas_41
+  - first:
+      213: 4629101270355420340
+    second: listado de reglas_42
+  - first:
+      213: -1085939989367720463
+    second: listado de reglas_43
+  - first:
+      213: 2259056827618418988
+    second: listado de reglas_44
+  - first:
+      213: -8992575891815690175
+    second: listado de reglas_45
+  - first:
+      213: -9201909604722725078
+    second: listado de reglas_46
+  - first:
+      213: 4709807438007075962
+    second: listado de reglas_47
+  - first:
+      213: 1162969280126603638
+    second: listado de reglas_48
+  - first:
+      213: -509357246066486658
+    second: listado de reglas_49
+  - first:
+      213: -1935837924384403632
+    second: listado de reglas_50
+  - first:
+      213: 3547533410652802437
+    second: listado de reglas_51
+  - first:
+      213: 4990093966658042180
+    second: listado de reglas_52
+  - first:
+      213: 5780280371378258398
+    second: listado de reglas_53
+  - first:
+      213: 2283696388787036943
+    second: listado de reglas_54
+  - first:
+      213: 1976680970509522398
+    second: listado de reglas_55
+  - first:
+      213: 3408665550351672862
+    second: listado de reglas_56
+  - first:
+      213: 9029777969069715784
+    second: listado de reglas_57
+  - first:
+      213: -3518631427298353791
+    second: listado de reglas_58
+  - first:
+      213: -3186370741017426597
+    second: listado de reglas_59
+  - first:
+      213: -1367592352769385907
+    second: listado de reglas_60
+  - first:
+      213: -5984389270920906668
+    second: listado de reglas_61
+  - first:
+      213: 1497069009707901838
+    second: listado de reglas_62
+  - first:
+      213: -8615363620542236584
+    second: listado de reglas_63
+  - first:
+      213: -649308582800037257
+    second: listado de reglas_64
+  - first:
+      213: -2515951054079209745
+    second: listado de reglas_65
+  - first:
+      213: -4251438582929954119
+    second: listado de reglas_66
+  - first:
+      213: -7474702687844758956
+    second: listado de reglas_67
+  - first:
+      213: -7234140188831159008
+    second: listado de reglas_68
+  - first:
+      213: -3023485501463811207
+    second: listado de reglas_69
+  - first:
+      213: 3224863863100173861
+    second: listado de reglas_70
+  - first:
+      213: 691613690526715115
+    second: listado de reglas_71
+  - first:
+      213: 4453959420922291009
+    second: listado de reglas_72
+  - first:
+      213: 8511248325106169518
+    second: listado de reglas_73
+  - first:
+      213: -1691129218351822771
+    second: listado de reglas_74
+  - first:
+      213: 3263868403360224615
+    second: listado de reglas_75
+  - first:
+      213: 8036439514121400695
+    second: listado de reglas_76
+  - first:
+      213: 4365776287423236462
+    second: listado de reglas_77
+  - first:
+      213: -7651130541285052118
+    second: listado de reglas_78
+  - first:
+      213: 5978633308914309129
+    second: listado de reglas_79
+  - first:
+      213: 6309707220697648989
+    second: listado de reglas_80
+  - first:
+      213: -624751453796783421
+    second: listado de reglas_81
+  - first:
+      213: 2196009197976447108
+    second: listado de reglas_82
+  - first:
+      213: -9000784876398216052
+    second: listado de reglas_83
+  - first:
+      213: -5572802339180824503
+    second: listado de reglas_84
+  - first:
+      213: -1585430126345621787
+    second: listado de reglas_85
+  - first:
+      213: -2421803874969965701
+    second: listado de reglas_86
+  - first:
+      213: -2988535653319934670
+    second: listado de reglas_87
+  - first:
+      213: -5468044569566673356
+    second: listado de reglas_88
+  - first:
+      213: 3972527186942148777
+    second: listado de reglas_89
+  - first:
+      213: -4213822066533093361
+    second: listado de reglas_90
+  - first:
+      213: -7197682816589856256
+    second: listado de reglas_91
+  - first:
+      213: 2642511899165339746
+    second: listado de reglas_92
+  - first:
+      213: -5807205697085824831
+    second: listado de reglas_93
+  - first:
+      213: 2112090992538813549
+    second: listado de reglas_94
+  - first:
+      213: -6887117085646543317
+    second: listado de reglas_95
+  - first:
+      213: 110701290942251805
+    second: listado de reglas_96
+  - first:
+      213: -6145502067198195979
+    second: listado de reglas_97
+  - first:
+      213: -7623365140159890740
+    second: listado de reglas_98
+  - first:
+      213: 2978633866999843442
+    second: listado de reglas_99
+  - first:
+      213: 1723903626632023315
+    second: listado de reglas_100
+  - first:
+      213: -1615422786273113697
+    second: listado de reglas_101
+  - first:
+      213: -5569085200145997957
+    second: listado de reglas_102
+  - first:
+      213: -5672581294372232919
+    second: listado de reglas_103
+  - first:
+      213: 7723366169075367114
+    second: listado de reglas_104
+  - first:
+      213: -6864003672662215599
+    second: listado de reglas_105
+  - first:
+      213: 2329890828337325632
+    second: listado de reglas_106
+  - first:
+      213: 7450648616630637000
+    second: listado de reglas_107
+  - first:
+      213: -3155244324780103445
+    second: listado de reglas_108
+  - first:
+      213: 5219072542053895514
+    second: listado de reglas_109
+  - first:
+      213: 5025235129603415995
+    second: listado de reglas_110
+  - first:
+      213: -2801195608214872575
+    second: listado de reglas_111
+  - first:
+      213: -4609915730364196829
+    second: listado de reglas_112
+  - first:
+      213: -4126988596286631421
+    second: listado de reglas_113
+  - first:
+      213: 5857656134164714613
+    second: listado de reglas_114
+  - first:
+      213: -4407166725060663026
+    second: listado de reglas_115
+  - first:
+      213: 532579124682922156
+    second: listado de reglas_116
+  - first:
+      213: 7080878808915980310
+    second: listado de reglas_117
+  - first:
+      213: -8927891504537121069
+    second: listado de reglas_118
+  - first:
+      213: -3723944164317242086
+    second: listado de reglas_119
+  - first:
+      213: 6703565131749214825
+    second: listado de reglas_120
+  - first:
+      213: 3847214026022671304
+    second: listado de reglas_121
+  - first:
+      213: -4901338989578514003
+    second: listado de reglas_122
+  - first:
+      213: -7074466186799359348
+    second: listado de reglas_123
+  - first:
+      213: -130894077931220958
+    second: listado de reglas_124
+  - first:
+      213: -6904268732945535350
+    second: listado de reglas_125
+  - first:
+      213: -1324590101099688875
+    second: listado de reglas_126
+  - first:
+      213: -3536207152003092152
+    second: listado de reglas_127
+  - first:
+      213: -2127618946381037716
+    second: listado de reglas_128
+  - first:
+      213: -1499356105382074866
+    second: listado de reglas_129
+  - first:
+      213: 8774185068337161204
+    second: listado de reglas_130
+  - first:
+      213: -4908196109353065176
+    second: listado de reglas_131
+  - first:
+      213: 35547219763044076
+    second: listado de reglas_132
+  - first:
+      213: 3268175376452671971
+    second: listado de reglas_133
+  - first:
+      213: 8658420364006360120
+    second: listado de reglas_134
+  - first:
+      213: 2583608222085819960
+    second: listado de reglas_135
+  - first:
+      213: 5605318560753150829
+    second: listado de reglas_136
+  - first:
+      213: 8482568704641089162
+    second: listado de reglas_137
+  - first:
+      213: 54360989959214948
+    second: listado de reglas_138
+  - first:
+      213: -8771555856325351911
+    second: listado de reglas_139
+  - first:
+      213: 1606848525874785942
+    second: listado de reglas_140
+  - first:
+      213: 9122394999764920708
+    second: listado de reglas_141
+  - first:
+      213: -1172791981725266817
+    second: listado de reglas_142
+  - first:
+      213: -5277989758589737424
+    second: listado de reglas_143
+  - first:
+      213: 7264442531959198301
+    second: listado de reglas_144
+  - first:
+      213: 1502941600145425206
+    second: listado de reglas_145
+  - first:
+      213: -477844069876988383
+    second: listado de reglas_146
+  - first:
+      213: 3463044181785941873
+    second: listado de reglas_147
+  - first:
+      213: -6607233447937889644
+    second: listado de reglas_148
+  - first:
+      213: 4727456646377955901
+    second: listado de reglas_149
+  - first:
+      213: -8520236860507847786
+    second: listado de reglas_150
+  - first:
+      213: 3042094499080580987
+    second: listado de reglas_151
+  - first:
+      213: -9059284765231291417
+    second: listado de reglas_152
+  - first:
+      213: -2609669500942779571
+    second: listado de reglas_153
+  - first:
+      213: -5247521250073800744
+    second: listado de reglas_154
+  - first:
+      213: 4496093135002296108
+    second: listado de reglas_155
+  - first:
+      213: 4667799418143506212
+    second: listado de reglas_156
+  - first:
+      213: 5005917127090659269
+    second: listado de reglas_157
+  - first:
+      213: -1607677202224914141
+    second: listado de reglas_158
+  - first:
+      213: 1579810397561007565
+    second: listado de reglas_159
+  - first:
+      213: -251006667561445531
+    second: listado de reglas_160
+  - first:
+      213: 9163800681572319302
+    second: listado de reglas_161
+  - first:
+      213: 6752999791801604904
+    second: listado de reglas_162
+  - first:
+      213: 7260993609811562985
+    second: listado de reglas_163
+  - first:
+      213: -2337628056442127730
+    second: listado de reglas_164
+  - first:
+      213: -885237021174595400
+    second: listado de reglas_165
+  - first:
+      213: -4865852137337540050
+    second: listado de reglas_166
+  - first:
+      213: -8545906341692505094
+    second: listado de reglas_167
+  - first:
+      213: -10324989378768600
+    second: listado de reglas_168
+  - first:
+      213: -8424254415616500643
+    second: listado de reglas_169
+  - first:
+      213: 438935184293467132
+    second: listado de reglas_170
+  - first:
+      213: -8434752876602731448
+    second: listado de reglas_171
+  - first:
+      213: 2443487949249231509
+    second: listado de reglas_172
+  - first:
+      213: 4990537585081661899
+    second: listado de reglas_173
+  - first:
+      213: 1885228979162576942
+    second: listado de reglas_174
+  - first:
+      213: 5159839684581352980
+    second: listado de reglas_175
+  - first:
+      213: -8387732030260533287
+    second: listado de reglas_176
+  - first:
+      213: -773590678211090040
+    second: listado de reglas_177
+  - first:
+      213: 8604169092444296368
+    second: listado de reglas_178
+  - first:
+      213: 8859685613244121089
+    second: listado de reglas_179
+  - first:
+      213: -2383450786583953192
+    second: listado de reglas_180
+  - first:
+      213: -9116557821153436808
+    second: listado de reglas_181
+  - first:
+      213: -7802440723169469031
+    second: listado de reglas_182
+  - first:
+      213: -7478387705576957358
+    second: listado de reglas_183
+  - first:
+      213: 7124156415932165344
+    second: listado de reglas_184
+  - first:
+      213: 9184156272864670265
+    second: listado de reglas_185
+  - first:
+      213: 7435197144680889712
+    second: listado de reglas_186
+  - first:
+      213: -1157306152829444642
+    second: listado de reglas_187
+  - first:
+      213: 7983500264788811520
+    second: listado de reglas_188
+  - first:
+      213: -5820186064064800064
+    second: listado de reglas_189
+  - first:
+      213: -1912986444443984145
+    second: listado de reglas_190
+  - first:
+      213: -1954068760113937348
+    second: listado de reglas_191
+  - first:
+      213: -2112542617134524158
+    second: listado de reglas_192
+  - first:
+      213: -2905780399169988306
+    second: listado de reglas_193
+  - first:
+      213: 5454403217826681018
+    second: listado de reglas_194
+  - first:
+      213: 2909600332952900098
+    second: listado de reglas_195
+  - first:
+      213: -4741416890268243103
+    second: listado de reglas_196
+  - first:
+      213: -354459518251891621
+    second: listado de reglas_197
+  - first:
+      213: 971908619387043678
+    second: listado de reglas_198
+  - first:
+      213: -8415794206457916423
+    second: listado de reglas_199
+  - first:
+      213: -1736100939347054399
+    second: listado de reglas_200
+  - first:
+      213: -356806012079069587
+    second: listado de reglas_201
+  - first:
+      213: 5079129480605337881
+    second: listado de reglas_202
+  - first:
+      213: -1953689201127946635
+    second: listado de reglas_203
+  - first:
+      213: 3651278219169179175
+    second: listado de reglas_204
+  - first:
+      213: 8430864813488359454
+    second: listado de reglas_205
+  - first:
+      213: -147730980819498429
+    second: listado de reglas_206
+  - first:
+      213: -2933476600656246246
+    second: listado de reglas_207
+  - first:
+      213: 7195174978195483371
+    second: listado de reglas_208
+  - first:
+      213: -4750238519552400609
+    second: listado de reglas_209
+  - first:
+      213: -3803398766704800073
+    second: listado de reglas_210
+  - first:
+      213: 6707520643618389158
+    second: listado de reglas_211
+  - first:
+      213: 7212557840856466013
+    second: listado de reglas_212
+  - first:
+      213: 8206300977670322379
+    second: listado de reglas_213
+  - first:
+      213: 2159294730079899049
+    second: listado de reglas_214
+  - first:
+      213: -892954618166078155
+    second: listado de reglas_215
+  - first:
+      213: -3316317498654077654
+    second: listado de reglas_216
+  - first:
+      213: 6301499415442900836
+    second: listado de reglas_217
+  - first:
+      213: -3325415050100788025
+    second: listado de reglas_218
+  - first:
+      213: -6505675944767886632
+    second: listado de reglas_219
+  - first:
+      213: 1956902220919059082
+    second: listado de reglas_220
+  - first:
+      213: 2877315796387073030
+    second: listado de reglas_221
+  - first:
+      213: -1402457298482680237
+    second: listado de reglas_222
+  - first:
+      213: -3743119466800571899
+    second: listado de reglas_223
+  - first:
+      213: -9053939242533422434
+    second: listado de reglas_224
+  - first:
+      213: -7104070975802599192
+    second: listado de reglas_225
+  - first:
+      213: 7020926675160420234
+    second: listado de reglas_226
+  - first:
+      213: -400953190048605349
+    second: listado de reglas_227
+  - first:
+      213: -750800775811268646
+    second: listado de reglas_228
+  - first:
+      213: 7014075980683262407
+    second: listado de reglas_229
+  - first:
+      213: 4338575981414883129
+    second: listado de reglas_230
+  - first:
+      213: 7922600889330445841
+    second: listado de reglas_231
+  - first:
+      213: 2059991188484480961
+    second: listado de reglas_232
+  - first:
+      213: -5013399101828370888
+    second: listado de reglas_233
+  - first:
+      213: -7256615050159227267
+    second: listado de reglas_234
+  - first:
+      213: -1099617105983888921
+    second: listado de reglas_235
+  - first:
+      213: -5116762603272804124
+    second: listado de reglas_236
+  - first:
+      213: 185948564800044280
+    second: listado de reglas_237
+  - first:
+      213: 7930154679874464446
+    second: listado de reglas_238
+  - first:
+      213: -8499418913035572169
+    second: listado de reglas_239
+  - first:
+      213: 4961744888058824216
+    second: listado de reglas_240
+  - first:
+      213: 5788925724548541153
+    second: listado de reglas_241
+  - first:
+      213: 891258589364783348
+    second: listado de reglas_242
+  - first:
+      213: 2484632313697973496
+    second: listado de reglas_243
+  - first:
+      213: -1379160203698478696
+    second: listado de reglas_244
+  - first:
+      213: -8031612651221772387
+    second: listado de reglas_245
+  - first:
+      213: 1090809409775431673
+    second: listado de reglas_246
+  - first:
+      213: 2885206320855026367
+    second: listado de reglas_247
+  - first:
+      213: 8596891553131605812
+    second: listado de reglas_248
+  - first:
+      213: 232240264730595325
+    second: listado de reglas_249
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: listado de reglas_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 3692
+        width: 79
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8100b609273eeed20800000000000000
+      internalID: 3309832857352601624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_1
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 3692
+        width: 72
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1931678fe430e42a0800000000000000
+      internalID: -6751455153670974575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_2
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 3692
+        width: 81
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab4ad9befab51cf50800000000000000
+      internalID: 6899896915238692026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_3
+      rect:
+        serializedVersion: 2
+        x: 1838
+        y: 3690
+        width: 77
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 408fa0c32fc7f83b0800000000000000
+      internalID: -5508046439419545596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_4
+      rect:
+        serializedVersion: 2
+        x: 2119
+        y: 3692
+        width: 72
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e7b1a3da42303050800000000000000
+      internalID: 5778173618875906021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_5
+      rect:
+        serializedVersion: 2
+        x: 2599
+        y: 3784
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75e8c034aedf06220800000000000000
+      internalID: 2477258977642843735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_6
+      rect:
+        serializedVersion: 2
+        x: 2754
+        y: 3690
+        width: 77
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa1f5dcbcc54975c0800000000000000
+      internalID: -4217262830411976278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_7
+      rect:
+        serializedVersion: 2
+        x: 2966
+        y: 3784
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 134c88f59fe76a620800000000000000
+      internalID: 2785053029089985585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_8
+      rect:
+        serializedVersion: 2
+        x: 3028
+        y: 3690
+        width: 77
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 312b92fb999e0fcf0800000000000000
+      internalID: -220419535194705389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_9
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 3690
+        width: 82
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9d3ba2da9ca59210800000000000000
+      internalID: 1339166245171969438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_10
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 3690
+        width: 74
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 121c7b772bb81c8f0800000000000000
+      internalID: -521982483169296095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_11
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 3690
+        width: 70
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dd24be7e8ac2ca90800000000000000
+      internalID: -7295045733026877999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_12
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 3690
+        width: 77
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2fec3867a40feae0800000000000000
+      internalID: -1517989432345694418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_13
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 3692
+        width: 73
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f812f9f3ac74e1640800000000000000
+      internalID: 5052554765932634511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_14
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 3690
+        width: 70
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f429dcbedb5e8330800000000000000
+      internalID: 3715007754836452601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_15
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 3690
+        width: 74
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cad59954ca64f8460800000000000000
+      internalID: 7246088031178415532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_16
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 3690
+        width: 70
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 375a7d0f8f5f8c1a0800000000000000
+      internalID: -6788905988719663757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_17
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 3690
+        width: 74
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 266b228e2cefab980800000000000000
+      internalID: -8522219231773542814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_18
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 3690
+        width: 72
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dde3b526a51baf3b0800000000000000
+      internalID: -5477870994987467043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_19
+      rect:
+        serializedVersion: 2
+        x: 1474
+        y: 3690
+        width: 77
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fa4bc12513e3a710800000000000000
+      internalID: 1703454763976968951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_20
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 3692
+        width: 72
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b10fe15d1b89f880800000000000000
+      internalID: -8576671057305468491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_21
+      rect:
+        serializedVersion: 2
+        x: 1658
+        y: 3690
+        width: 74
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4383592e804d11cc0800000000000000
+      internalID: -3741976680741914572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_22
+      rect:
+        serializedVersion: 2
+        x: 1932
+        y: 3690
+        width: 78
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c93138689707a1d80800000000000000
+      internalID: -8279181297717144676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_23
+      rect:
+        serializedVersion: 2
+        x: 2208
+        y: 3690
+        width: 74
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b77678ed83a746030800000000000000
+      internalID: 3487046396161779579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_24
+      rect:
+        serializedVersion: 2
+        x: 2303
+        y: 3690
+        width: 69
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2f9fd835654c2ac0800000000000000
+      internalID: -3878648878024646869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_25
+      rect:
+        serializedVersion: 2
+        x: 2485
+        y: 3659
+        width: 77
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b27f745947e1b2c70800000000000000
+      internalID: 8947278570771183403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_26
+      rect:
+        serializedVersion: 2
+        x: 2577
+        y: 3692
+        width: 73
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fea55b62725c27870800000000000000
+      internalID: 8679216203840183023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_27
+      rect:
+        serializedVersion: 2
+        x: 2665
+        y: 3690
+        width: 78
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12e3058d769823730800000000000000
+      internalID: 3977392500025343521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_28
+      rect:
+        serializedVersion: 2
+        x: 2854
+        y: 3692
+        width: 73
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d579790e2fcb5da0800000000000000
+      internalID: -5954938285632948777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_29
+      rect:
+        serializedVersion: 2
+        x: 2944
+        y: 3692
+        width: 72
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 183ece0767bcaf7c0800000000000000
+      internalID: -4036690406423075967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_30
+      rect:
+        serializedVersion: 2
+        x: 3124
+        y: 3690
+        width: 74
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab53ffac8f39ed610800000000000000
+      internalID: 1647917210431075770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_31
+      rect:
+        serializedVersion: 2
+        x: 3219
+        y: 3690
+        width: 69
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72a6fd6a4c5ae7900800000000000000
+      internalID: 684166457438726695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_32
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 3325
+        width: 79
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c89d90ebd33fc750800000000000000
+      internalID: 6327333020938115272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_33
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 3323
+        width: 82
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96ef9b17c14d5ee10800000000000000
+      internalID: 2226418809436765801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_34
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 3325
+        width: 72
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80c6ed5071cdd9690800000000000000
+      internalID: -7593671405235966968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_35
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 3323
+        width: 82
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ea1b7879bd5fa7c0800000000000000
+      internalID: -4057921688065860896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_36
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 3325
+        width: 84
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f23e461b8e930430800000000000000
+      internalID: 3748013635114250993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_37
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 3293
+        width: 77
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfe47a463b2ffd7c0800000000000000
+      internalID: -4044247088053661956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_38
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 3323
+        width: 78
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c44e0e5cbd4c7d30800000000000000
+      internalID: 4430501604852909256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_39
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 3325
+        width: 72
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf81d2b6d022c51a0800000000000000
+      internalID: -6819538294717736709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_40
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 3325
+        width: 82
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f77ece6fc30856e0800000000000000
+      internalID: -1848723457583450122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_41
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 3325
+        width: 73
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb7d7f827d5fa2e00800000000000000
+      internalID: 1020898570006943675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_42
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 3323
+        width: 82
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b428d0541fdd3040800000000000000
+      internalID: 4629101270355420340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_43
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 3325
+        width: 73
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f5785e4557fde0f0800000000000000
+      internalID: -1085939989367720463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_44
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 3323
+        width: 77
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c21ed993738c95f10800000000000000
+      internalID: 2259056827618418988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_45
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 3325
+        width: 73
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14095900fd3f33380800000000000000
+      internalID: -8992575891815690175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_46
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 3323
+        width: 82
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2f2f33e7ff3c4080800000000000000
+      internalID: -9201909604722725078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_47
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 3323
+        width: 69
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7487e649e89c5140800000000000000
+      internalID: 4709807438007075962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_48
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2958
+        width: 79
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67153aa0662b32010800000000000000
+      internalID: 1162969280126603638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_49
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 2956
+        width: 82
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e729f6c88466ee8f0800000000000000
+      internalID: -509357246066486658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_50
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 2958
+        width: 72
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05f865e0aa58225e0800000000000000
+      internalID: -1935837924384403632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_51
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 2956
+        width: 82
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58d4ac267de5b3130800000000000000
+      internalID: 3547533410652802437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_52
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 2958
+        width: 84
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 449f8762600604540800000000000000
+      internalID: 4990093966658042180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_53
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 2926
+        width: 77
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed10a2e5f5ea73050800000000000000
+      internalID: 5780280371378258398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_54
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 2956
+        width: 78
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f036e7c14c151bf10800000000000000
+      internalID: 2283696388787036943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_55
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 2958
+        width: 72
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed59e79aed49e6b10800000000000000
+      internalID: 1976680970509522398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_56
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 2956
+        width: 78
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e16a2d612430e4f20800000000000000
+      internalID: 3408665550351672862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_57
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 2956
+        width: 69
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8417c079837305d70800000000000000
+      internalID: 9029777969069715784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_58
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 2957
+        width: 70
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18d1b500c5f4b2fc0800000000000000
+      internalID: -3518631427298353791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_59
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 2956
+        width: 72
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5545f271bcb7c3d0800000000000000
+      internalID: -3186370741017426597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_60
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 2958
+        width: 73
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4ad3af3006550de0800000000000000
+      internalID: -1367592352769385907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_61
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 2956
+        width: 77
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 458b91d2aad23fca0800000000000000
+      internalID: -5984389270920906668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_62
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 2956
+        width: 72
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e83a2ef1558a6c410800000000000000
+      internalID: 1497069009707901838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_63
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 2958
+        width: 72
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 858b1caee64107880800000000000000
+      internalID: -8615363620542236584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_64
+      rect:
+        serializedVersion: 2
+        x: 1658
+        y: 2956
+        width: 74
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77a679cb8413df6f0800000000000000
+      internalID: -649308582800037257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_65
+      rect:
+        serializedVersion: 2
+        x: 1753
+        y: 2956
+        width: 69
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feec65da8db851dd0800000000000000
+      internalID: -2515951054079209745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_66
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2592
+        width: 79
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bae118422bdff4c0800000000000000
+      internalID: -4251438582929954119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_67
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 2590
+        width: 82
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45a0b511285844890800000000000000
+      internalID: -7474702687844758956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_68
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 2592
+        width: 72
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02d675d83db2b9b90800000000000000
+      internalID: -7234140188831159008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_69
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 2590
+        width: 82
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97ba4bd94fb6a06d0800000000000000
+      internalID: -3023485501463811207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_70
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 2592
+        width: 84
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52e6411f89401cc20800000000000000
+      internalID: 3224863863100173861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_71
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 2559
+        width: 77
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bec44a9bcfa199900800000000000000
+      internalID: 691613690526715115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_72
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 2590
+        width: 78
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 143e318ce74afcd30800000000000000
+      internalID: 4453959420922291009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_73
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 2592
+        width: 72
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea67715d1470e1670800000000000000
+      internalID: 8511248325106169518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_74
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 2592
+        width: 90
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d480bd69fe6e788e0800000000000000
+      internalID: -1691129218351822771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_75
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 2590
+        width: 74
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76558e725079b4d20800000000000000
+      internalID: 3263868403360224615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_76
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 2590
+        width: 69
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7717e12c82b278f60800000000000000
+      internalID: 8036439514121400695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_77
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 2590
+        width: 82
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e698fac076a569c30800000000000000
+      internalID: 4365776287423236462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_78
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 2590
+        width: 69
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a21ff846f49b1d590800000000000000
+      internalID: -7651130541285052118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_79
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2225
+        width: 79
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 908d72c715f58f250800000000000000
+      internalID: 5978633308914309129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_80
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 2223
+        width: 77
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5f86667945909750800000000000000
+      internalID: 6309707220697648989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_81
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 2317
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3caa883ecdf6457f0800000000000000
+      internalID: -624751453796783421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_82
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 2223
+        width: 77
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48860e80bbac97e10800000000000000
+      internalID: 2196009197976447108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_83
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 2223
+        width: 82
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8c7396d7d9c61380800000000000000
+      internalID: -9000784876398216052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_84
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 2225
+        width: 72
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94839a96ccd69a2b0800000000000000
+      internalID: -5572802339180824503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_85
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 2225
+        width: 73
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ee67f633bb6ff9e0800000000000000
+      internalID: -1585430126345621787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_86
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 2223
+        width: 74
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7b20ccf436046ed0800000000000000
+      internalID: -2421803874969965701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_87
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 2225
+        width: 73
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23d764148a69686d0800000000000000
+      internalID: -2988535653319934670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_88
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 2224
+        width: 70
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43689f65f6a9d14b0800000000000000
+      internalID: -5468044569566673356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_89
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 2223
+        width: 72
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a0c44edd60412730800000000000000
+      internalID: 3972527186942148777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_90
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 2223
+        width: 74
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f00b791082f7585c0800000000000000
+      internalID: -4213822066533093361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_91
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 2225
+        width: 73
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0028a3ffc91bc1c90800000000000000
+      internalID: -7197682816589856256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_92
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 2223
+        width: 82
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2603e7852961ca420800000000000000
+      internalID: 2642511899165339746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_93
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 2223
+        width: 69
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c02397bf29a86fa0800000000000000
+      internalID: -5807205697085824831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_94
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1858
+        width: 79
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d64049f3197af4d10800000000000000
+      internalID: 2112090992538813549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_95
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1858
+        width: 72
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b26a387008b0c60a0800000000000000
+      internalID: -6887117085646543317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_96
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 1950
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d134ac2dc3a498100800000000000000
+      internalID: 110701290942251805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_97
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 1856
+        width: 77
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f6093e1e6ac6baa0800000000000000
+      internalID: -6145502067198195979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_98
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 1950
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cca7cab9bcd543690800000000000000
+      internalID: -7623365140159890740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_99
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 1858
+        width: 72
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27a497678bb365920800000000000000
+      internalID: 2978633866999843442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_100
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 1857
+        width: 77
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31dc86cf6398ce710800000000000000
+      internalID: 1723903626632023315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_101
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 1950
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f998e16e88dd499e0800000000000000
+      internalID: -1615422786273113697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_102
+      rect:
+        serializedVersion: 2
+        x: 1745
+        y: 1856
+        width: 77
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7f99694482a6b2b0800000000000000
+      internalID: -5569085200145997957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_103
+      rect:
+        serializedVersion: 2
+        x: 2049
+        y: 1950
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 921ea6d0e51f641b0800000000000000
+      internalID: -5672581294372232919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_104
+      rect:
+        serializedVersion: 2
+        x: 2754
+        y: 1856
+        width: 77
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: accb1025c98ee2b60800000000000000
+      internalID: 7723366169075367114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_105
+      rect:
+        serializedVersion: 2
+        x: 3486
+        y: 1856
+        width: 77
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 154fdf9d6092eb0a0800000000000000
+      internalID: -6864003672662215599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_106
+      rect:
+        serializedVersion: 2
+        x: 3882
+        y: 1950
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 046ac743d5f655020800000000000000
+      internalID: 2329890828337325632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_107
+      rect:
+        serializedVersion: 2
+        x: 4037
+        y: 1856
+        width: 77
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c1568c0175066760800000000000000
+      internalID: 7450648616630637000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_108
+      rect:
+        serializedVersion: 2
+        x: 4321
+        y: 1951
+        width: 64
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be82ae9f0025634d0800000000000000
+      internalID: -3155244324780103445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_109
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1856
+        width: 82
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5d0e1e33dedd6840800000000000000
+      internalID: 5219072542053895514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_110
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 1856
+        width: 69
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbf53dcb9b83db540800000000000000
+      internalID: 5025235129603415995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_111
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 1856
+        width: 74
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10ed7f98f672029d0800000000000000
+      internalID: -2801195608214872575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_112
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 1858
+        width: 73
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 328182f411a4600c0800000000000000
+      internalID: -4609915730364196829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_113
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 1858
+        width: 73
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3025f36ccbdf9b6c0800000000000000
+      internalID: -4126988596286631421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_114
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 1856
+        width: 78
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 574964508339a4150800000000000000
+      internalID: 5857656134164714613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_115
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 1858
+        width: 84
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0966d6b63996d2c0800000000000000
+      internalID: -4407166725060663026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_116
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 1858
+        width: 72
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca8938564e9146700800000000000000
+      internalID: 532579124682922156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_117
+      rect:
+        serializedVersion: 2
+        x: 1474
+        y: 1856
+        width: 74
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6103707b2c5544260800000000000000
+      internalID: 7080878808915980310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_118
+      rect:
+        serializedVersion: 2
+        x: 1661
+        y: 1858
+        width: 72
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3de46d68af1c91480800000000000000
+      internalID: -8927891504537121069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_119
+      rect:
+        serializedVersion: 2
+        x: 1841
+        y: 1856
+        width: 74
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1d5b7a4384e15cc0800000000000000
+      internalID: -3723944164317242086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_120
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 1857
+        width: 70
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96a4b9668f8d70d50800000000000000
+      internalID: 6703565131749214825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_121
+      rect:
+        serializedVersion: 2
+        x: 2027
+        y: 1858
+        width: 73
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c35bf3f5cc046530800000000000000
+      internalID: 3847214026022671304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_122
+      rect:
+        serializedVersion: 2
+        x: 2113
+        y: 1856
+        width: 82
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da1966a4822fafbb0800000000000000
+      internalID: -4901338989578514003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_123
+      rect:
+        serializedVersion: 2
+        x: 2210
+        y: 1858
+        width: 72
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8adf483c7272dd90800000000000000
+      internalID: -7074466186799359348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_124
+      rect:
+        serializedVersion: 2
+        x: 2393
+        y: 1857
+        width: 70
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22015b59788fe2ef0800000000000000
+      internalID: -130894077931220958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_125
+      rect:
+        serializedVersion: 2
+        x: 2484
+        y: 1856
+        width: 72
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8ee1f2fa2c1f20a0800000000000000
+      internalID: -6904268732945535350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_126
+      rect:
+        serializedVersion: 2
+        x: 2574
+        y: 1856
+        width: 74
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55c44fe225c1e9de0800000000000000
+      internalID: -1324590101099688875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_127
+      rect:
+        serializedVersion: 2
+        x: 2668
+        y: 1858
+        width: 72
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 841f8a4b45edceec0800000000000000
+      internalID: -3536207152003092152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_128
+      rect:
+        serializedVersion: 2
+        x: 2846
+        y: 1856
+        width: 82
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6f319347dd2972e0800000000000000
+      internalID: -2127618946381037716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_129
+      rect:
+        serializedVersion: 2
+        x: 3035
+        y: 1858
+        width: 72
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0663eae097313be0800000000000000
+      internalID: -1499356105382074866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_130
+      rect:
+        serializedVersion: 2
+        x: 3121
+        y: 1856
+        width: 82
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f3e5cff4da24c970800000000000000
+      internalID: 8774185068337161204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_131
+      rect:
+        serializedVersion: 2
+        x: 3307
+        y: 1856
+        width: 77
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8256e0ea4a592ebb0800000000000000
+      internalID: -4908196109353065176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_132
+      rect:
+        serializedVersion: 2
+        x: 3402
+        y: 1856
+        width: 69
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cee9abe020a4e7000800000000000000
+      internalID: 35547219763044076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_133
+      rect:
+        serializedVersion: 2
+        x: 3582
+        y: 1856
+        width: 74
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e9d3297034ea5d20800000000000000
+      internalID: 3268175376452671971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_134
+      rect:
+        serializedVersion: 2
+        x: 3761
+        y: 1858
+        width: 85
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8348b906273e82870800000000000000
+      internalID: 8658420364006360120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_135
+      rect:
+        serializedVersion: 2
+        x: 3860
+        y: 1858
+        width: 72
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83e243c4df1dad320800000000000000
+      internalID: 2583608222085819960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_136
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 1856
+        width: 72
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6b689268871acd40800000000000000
+      internalID: 5605318560753150829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_137
+      rect:
+        serializedVersion: 2
+        x: 4223
+        y: 1856
+        width: 77
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8e3af65b4328b570800000000000000
+      internalID: 8482568704641089162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_138
+      rect:
+        serializedVersion: 2
+        x: 4318
+        y: 1858
+        width: 72
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4675828480121c000800000000000000
+      internalID: 54360989959214948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_139
+      rect:
+        serializedVersion: 2
+        x: 4404
+        y: 1856
+        width: 82
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 916ea302c6c254680800000000000000
+      internalID: -8771555856325351911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_140
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1492
+        width: 79
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69e60a8883cac4610800000000000000
+      internalID: 1606848525874785942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_141
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 1490
+        width: 77
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 489a9c57be1499e70800000000000000
+      internalID: 9122394999764920708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_142
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 1492
+        width: 72
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7cc6d508e769bfe0800000000000000
+      internalID: -1172791981725266817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_143
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 1492
+        width: 81
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 036eb1f4740d0c6b0800000000000000
+      internalID: -5277989758589737424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_144
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 1584
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d52daa08efb70d460800000000000000
+      internalID: 7264442531959198301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_145
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 1584
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63343d22c658bd410800000000000000
+      internalID: 1502941600145425206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_146
+      rect:
+        serializedVersion: 2
+        x: 2205
+        y: 1490
+        width: 77
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12684f4a95b5e59f0800000000000000
+      internalID: -477844069876988383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_147
+      rect:
+        serializedVersion: 2
+        x: 2599
+        y: 1584
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17795d8d5543f0030800000000000000
+      internalID: 3463044181785941873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_148
+      rect:
+        serializedVersion: 2
+        x: 2754
+        y: 1490
+        width: 77
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49a259b8f246e44a0800000000000000
+      internalID: -6607233447937889644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_149
+      rect:
+        serializedVersion: 2
+        x: 3038
+        y: 1585
+        width: 64
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d32ea62d5cc4b9140800000000000000
+      internalID: 4727456646377955901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_150
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1490
+        width: 82
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6938d3fa7b902c980800000000000000
+      internalID: -8520236860507847786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_151
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1490
+        width: 77
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7f2ed644d0b73a20800000000000000
+      internalID: 3042094499080580987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_152
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 1492
+        width: 72
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e3e7411184f64280800000000000000
+      internalID: -9059284765231291417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_153
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 1492
+        width: 72
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4b722f5a6798cbd0800000000000000
+      internalID: -2609669500942779571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_154
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 1490
+        width: 74
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8df8902c93f0d27b0800000000000000
+      internalID: -5247521250073800744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_155
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 1492
+        width: 72
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2f52ec82e4556e30800000000000000
+      internalID: 4496093135002296108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_156
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 1490
+        width: 78
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42ff739f6da57c040800000000000000
+      internalID: 4667799418143506212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_157
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 1492
+        width: 72
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cf5847ca17987540800000000000000
+      internalID: 5005917127090659269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_158
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 1490
+        width: 74
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 321e3e73a1260b9e0800000000000000
+      internalID: -1607677202224914141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_159
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 1490
+        width: 82
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcda717bf2d9ce510800000000000000
+      internalID: 1579810397561007565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_160
+      rect:
+        serializedVersion: 2
+        x: 1661
+        y: 1492
+        width: 72
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 567deb704ce348cf0800000000000000
+      internalID: -251006667561445531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_161
+      rect:
+        serializedVersion: 2
+        x: 1751
+        y: 1490
+        width: 70
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 640c9910b2c5c2f70800000000000000
+      internalID: 9163800681572319302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_162
+      rect:
+        serializedVersion: 2
+        x: 1844
+        y: 1492
+        width: 73
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82b1f9e188977bd50800000000000000
+      internalID: 6752999791801604904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_163
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 1492
+        width: 72
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e1133db73b34c460800000000000000
+      internalID: 7260993609811562985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_164
+      rect:
+        serializedVersion: 2
+        x: 2024
+        y: 1490
+        width: 74
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8ab7cefaa31f8fd0800000000000000
+      internalID: -2337628056442127730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_165
+      rect:
+        serializedVersion: 2
+        x: 2299
+        y: 1490
+        width: 77
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b00dd29e9107b3f0800000000000000
+      internalID: -885237021174595400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_166
+      rect:
+        serializedVersion: 2
+        x: 2478
+        y: 1492
+        width: 85
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e22bb60f245097cb0800000000000000
+      internalID: -4865852137337540050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_167
+      rect:
+        serializedVersion: 2
+        x: 2577
+        y: 1492
+        width: 73
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af309abd577d66980800000000000000
+      internalID: -8545906341692505094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_168
+      rect:
+        serializedVersion: 2
+        x: 2851
+        y: 1490
+        width: 72
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 821d4c31a715bdff0800000000000000
+      internalID: -10324989378768600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_169
+      rect:
+        serializedVersion: 2
+        x: 2940
+        y: 1490
+        width: 78
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5c99ab1e39071b80800000000000000
+      internalID: -8424254415616500643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_170
+      rect:
+        serializedVersion: 2
+        x: 3035
+        y: 1492
+        width: 72
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf39b3b7939671600800000000000000
+      internalID: 438935184293467132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_171
+      rect:
+        serializedVersion: 2
+        x: 3121
+        y: 1490
+        width: 82
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 844d3eda2fcb1fa80800000000000000
+      internalID: -8434752876602731448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_172
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1125
+        width: 79
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59ab2fbf75309e120800000000000000
+      internalID: 2443487949249231509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_173
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 1125
+        width: 73
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc9370d1e73f14540800000000000000
+      internalID: 4990537585081661899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_174
+      rect:
+        serializedVersion: 2
+        x: 2020
+        y: 1123
+        width: 77
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e28f147a4cda92a10800000000000000
+      internalID: 1885228979162576942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_175
+      rect:
+        serializedVersion: 2
+        x: 2205
+        y: 1123
+        width: 77
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4166f69eade6b9740800000000000000
+      internalID: 5159839684581352980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_176
+      rect:
+        serializedVersion: 2
+        x: 2663
+        y: 1123
+        width: 77
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d7a729982ac89b80800000000000000
+      internalID: -8387732030260533287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_177
+      rect:
+        serializedVersion: 2
+        x: 3057
+        y: 1217
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 889aca77067a345f0800000000000000
+      internalID: -773590678211090040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_178
+      rect:
+        serializedVersion: 2
+        x: 3213
+        y: 1123
+        width: 77
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b49986e336286770800000000000000
+      internalID: 8604169092444296368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_179
+      rect:
+        serializedVersion: 2
+        x: 3496
+        y: 1218
+        width: 64
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1000e07ef1de3fa70800000000000000
+      internalID: 8859685613244121089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_180
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1123
+        width: 82
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d0c90e33284ceed0800000000000000
+      internalID: -2383450786583953192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_181
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1093
+        width: 77
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87b17d796fa7b7180800000000000000
+      internalID: -9116557821153436808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_182
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 1123
+        width: 74
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99d117a508928b390800000000000000
+      internalID: -7802440723169469031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_183
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 1125
+        width: 73
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25adf64010e673890800000000000000
+      internalID: -7478387705576957358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_184
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 1123
+        width: 74
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ece4ffc3861ed260800000000000000
+      internalID: 7124156415932165344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_185
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 1125
+        width: 73
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93236cd687da47f70800000000000000
+      internalID: 9184156272864670265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_186
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 1125
+        width: 85
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07df3b3e8602f2760800000000000000
+      internalID: 7435197144680889712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_187
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 1123
+        width: 77
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edd1a388f2c60ffe0800000000000000
+      internalID: -1157306152829444642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_188
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 1123
+        width: 77
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00f59f241371bce60800000000000000
+      internalID: 7983500264788811520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_189
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 1125
+        width: 72
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ca1db48c9b8a3fa0800000000000000
+      internalID: -5820186064064800064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_190
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 1123
+        width: 74
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fee57c6d6f4b375e0800000000000000
+      internalID: -1912986444443984145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_191
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 1124
+        width: 70
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3488b6d0d0c1e4e0800000000000000
+      internalID: -1954068760113937348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_192
+      rect:
+        serializedVersion: 2
+        x: 1655
+        y: 1123
+        width: 82
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20992d4beadbea2e0800000000000000
+      internalID: -2112542617134524158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_193
+      rect:
+        serializedVersion: 2
+        x: 1745
+        y: 1125
+        width: 85
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e291e285f189ca7d0800000000000000
+      internalID: -2905780399169988306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_194
+      rect:
+        serializedVersion: 2
+        x: 1844
+        y: 1093
+        width: 77
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab09e44f3dee1bb40800000000000000
+      internalID: 5454403217826681018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_195
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 1123
+        width: 72
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 202140c461af06820800000000000000
+      internalID: 2909600332952900098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_196
+      rect:
+        serializedVersion: 2
+        x: 2116
+        y: 1123
+        width: 74
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16b268b957a133eb0800000000000000
+      internalID: -4741416890268243103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_197
+      rect:
+        serializedVersion: 2
+        x: 2296
+        y: 1123
+        width: 82
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b54075732f4b41bf0800000000000000
+      internalID: -354459518251891621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_198
+      rect:
+        serializedVersion: 2
+        x: 2396
+        y: 1125
+        width: 73
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5f74bc6db9ec7d00800000000000000
+      internalID: 971908619387043678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_199
+      rect:
+        serializedVersion: 2
+        x: 2482
+        y: 1123
+        width: 74
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f3194d02c7153b80800000000000000
+      internalID: -8415794206457916423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_200
+      rect:
+        serializedVersion: 2
+        x: 2757
+        y: 1123
+        width: 77
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c03ff7d46128e7e0800000000000000
+      internalID: -1736100939347054399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_201
+      rect:
+        serializedVersion: 2
+        x: 2937
+        y: 1125
+        width: 84
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d66ad4c82de5c0bf0800000000000000
+      internalID: -356806012079069587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_202
+      rect:
+        serializedVersion: 2
+        x: 3035
+        y: 1125
+        width: 73
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91902bb2a51bc7640800000000000000
+      internalID: 5079129480605337881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_203
+      rect:
+        serializedVersion: 2
+        x: 3309
+        y: 1123
+        width: 72
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 576804dc50a13e4e0800000000000000
+      internalID: -1953689201127946635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_204
+      rect:
+        serializedVersion: 2
+        x: 3398
+        y: 1123
+        width: 78
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72623bde132fba230800000000000000
+      internalID: 3651278219169179175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_205
+      rect:
+        serializedVersion: 2
+        x: 3493
+        y: 1125
+        width: 72
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e18405511e2700570800000000000000
+      internalID: 8430864813488359454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_206
+      rect:
+        serializedVersion: 2
+        x: 3579
+        y: 1123
+        width: 82
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34a0fe5a47723fdf0800000000000000
+      internalID: -147730980819498429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_207
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 758
+        width: 79
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1ac6fce2923a47d0800000000000000
+      internalID: -2933476600656246246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_208
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 758
+        width: 73
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beaee1065856ad360800000000000000
+      internalID: 7195174978195483371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_209
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 850
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f13a3bbfb33c31eb0800000000000000
+      internalID: -4750238519552400609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_210
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 756
+        width: 77
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bec66319fc973bc0800000000000000
+      internalID: -3803398766704800073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_211
+      rect:
+        serializedVersion: 2
+        x: 2027
+        y: 758
+        width: 73
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ac3976cc76e51d50800000000000000
+      internalID: 6707520643618389158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_212
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 756
+        width: 82
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d52453a7427281460800000000000000
+      internalID: 7212557840856466013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_213
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 758
+        width: 85
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc8faf5a243a2e170800000000000000
+      internalID: 8206300977670322379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_214
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 756
+        width: 82
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ad09c7dd1b57fd10800000000000000
+      internalID: 2159294730079899049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_215
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 758
+        width: 90
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5359aaf71869b93f0800000000000000
+      internalID: -892954618166078155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_216
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 756
+        width: 77
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2dcf4a3ec21af1d0800000000000000
+      internalID: -3316317498654077654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_217
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 758
+        width: 73
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4674ec1e45c637750800000000000000
+      internalID: 6301499415442900836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_218
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 756
+        width: 74
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c4310871a0c9d1d0800000000000000
+      internalID: -3325415050100788025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_219
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 756
+        width: 69
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8da6e40623237b5a0800000000000000
+      internalID: -6505675944767886632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_220
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 757
+        width: 70
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a82bd0aa330582b10800000000000000
+      internalID: 1956902220919059082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_221
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 756
+        width: 74
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60c854ed8774ee720800000000000000
+      internalID: 2877315796387073030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_222
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 724
+        width: 65
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35e294f7488798ce0800000000000000
+      internalID: -1402457298482680237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_223
+      rect:
+        serializedVersion: 2
+        x: 1474
+        y: 756
+        width: 74
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50a90854da4cd0cc0800000000000000
+      internalID: -3743119466800571899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_224
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 756
+        width: 69
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9a73de8a32f95280800000000000000
+      internalID: -9053939242533422434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_225
+      rect:
+        serializedVersion: 2
+        x: 1841
+        y: 756
+        width: 77
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e89f142615496d90800000000000000
+      internalID: -7104070975802599192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_226
+      rect:
+        serializedVersion: 2
+        x: 2118
+        y: 756
+        width: 72
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8f4003dc975f6160800000000000000
+      internalID: 7020926675160420234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_227
+      rect:
+        serializedVersion: 2
+        x: 2205
+        y: 724
+        width: 82
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5bd79fa2378f6af0800000000000000
+      internalID: -400953190048605349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_228
+      rect:
+        serializedVersion: 2
+        x: 2299
+        y: 756
+        width: 74
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adf7eac1cae9495f0800000000000000
+      internalID: -750800775811268646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_229
+      rect:
+        serializedVersion: 2
+        x: 2396
+        y: 758
+        width: 73
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c9b93831f0075160800000000000000
+      internalID: 7014075980683262407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_230
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 392
+        width: 79
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93f964b4ed7b53c30800000000000000
+      internalID: 4338575981414883129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_231
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 390
+        width: 82
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11e2cb9788bb2fd60800000000000000
+      internalID: 7922600889330445841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_232
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 392
+        width: 72
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cf5d06521f869c10800000000000000
+      internalID: 2059991188484480961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_233
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 390
+        width: 74
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83ee14a3414dc6ab0800000000000000
+      internalID: -5013399101828370888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_234
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 390
+        width: 70
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7e718f1f035b4b90800000000000000
+      internalID: -7256615050159227267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_235
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 392
+        width: 79
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e123e071106db0f0800000000000000
+      internalID: -1099617105983888921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_236
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 390
+        width: 78
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e8ebe7a58b9df8b0800000000000000
+      internalID: -5116762603272804124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_237
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 390
+        width: 74
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fc76670c3f949200800000000000000
+      internalID: 185948564800044280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_238
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 392
+        width: 72
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebaa1d36aa19d0e60800000000000000
+      internalID: 7930154679874464446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_239
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 390
+        width: 77
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73c274bc78ffb0a80800000000000000
+      internalID: -8499418913035572169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_240
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 392
+        width: 72
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8164bdeefa8abd440800000000000000
+      internalID: 4961744888058824216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_241
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 359
+        width: 77
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ea26d28645665050800000000000000
+      internalID: 5788925724548541153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_242
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 390
+        width: 78
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f88a1607f26e5c00800000000000000
+      internalID: 891258589364783348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_243
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 392
+        width: 72
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f4bc67dcef2b7220800000000000000
+      internalID: 2484632313697973496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_244
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 390
+        width: 77
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89162321a1d3cdce0800000000000000
+      internalID: -1379160203698478696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_245
+      rect:
+        serializedVersion: 2
+        x: 1658
+        y: 390
+        width: 74
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d979466d8daf98090800000000000000
+      internalID: -8031612651221772387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_246
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 358
+        width: 83
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ff615bf065532f00800000000000000
+      internalID: 1090809409775431673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_247
+      rect:
+        serializedVersion: 2
+        x: 1838
+        y: 390
+        width: 82
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fba8642ccdf4a0820800000000000000
+      internalID: 2885206320855026367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_248
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 392
+        width: 72
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43f27fcb15b4e4770800000000000000
+      internalID: 8596891553131605812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: listado de reglas_249
+      rect:
+        serializedVersion: 2
+        x: 2021
+        y: 390
+        width: 82
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dff4fc15a45193300800000000000000
+      internalID: 232240264730595325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
