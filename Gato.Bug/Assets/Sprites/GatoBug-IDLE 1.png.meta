@@ -1,34 +1,34 @@
 fileFormatVersion: 2
-guid: 507f9b708fda66a4bbf6ddf5a56e757b
+guid: baa42624a62bc874286eb813369fc482
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -404473345915693932
-    second: cajas chicas_0
+      213: 8829540279433632906
+    second: GatoBug-IDLE 1_0
   - first:
-      213: 6935604387736627318
-    second: cajas chicas_1
+      213: 4947253793526914243
+    second: GatoBug-IDLE 1_1
   - first:
-      213: -1523692455146611086
-    second: cajas chicas_2
+      213: 2516501481991471209
+    second: GatoBug-IDLE 1_2
   - first:
-      213: -1967556248990219969
-    second: cajas chicas_3
+      213: -1705285152409235692
+    second: GatoBug-IDLE 1_3
   - first:
-      213: -4115985268280130580
-    second: cajas chicas_4
+      213: -2489676182275240446
+    second: GatoBug-IDLE 1_4
   - first:
-      213: -7316932896260263513
-    second: cajas chicas_5
+      213: 2158886420467007879
+    second: GatoBug-IDLE 1_5
   - first:
-      213: 6667827476864162969
-    second: cajas chicas_6
+      213: -3784882708972259109
+    second: GatoBug-IDLE 1_6
   - first:
-      213: -7574269027113157868
-    second: cajas chicas_7
+      213: 5064035222530737682
+    second: GatoBug-IDLE 1_7
   - first:
-      213: 6157152161059753451
-    second: cajas chicas_8
+      213: 7951824812704234194
+    second: GatoBug-IDLE 1_8
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -61,7 +61,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -137,13 +137,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: cajas chicas_0
+      name: GatoBug-IDLE 1_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 2960
-        width: 4121
-        height: 1129
+        x: 364
+        y: 210
+        width: 626
+        height: 990
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -152,20 +152,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 494d49782a5036af0800000000000000
-      internalID: -404473345915693932
+      spriteID: a8c15ad6a14d88a70800000000000000
+      internalID: 8829540279433632906
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: cajas chicas_1
+      name: GatoBug-IDLE 1_1
       rect:
         serializedVersion: 2
-        x: 4697
-        y: 2960
-        width: 4122
-        height: 1129
+        x: 1518
+        y: 210
+        width: 696
+        height: 990
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -174,20 +174,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 678aea9b177304060800000000000000
-      internalID: 6935604387736627318
+      spriteID: 3cc10e01d1d28a440800000000000000
+      internalID: 4947253793526914243
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: cajas chicas_2
+      name: GatoBug-IDLE 1_2
       rect:
         serializedVersion: 2
-        x: 9381
-        y: 2960
-        width: 4120
-        height: 1129
+        x: 2673
+        y: 210
+        width: 647
+        height: 990
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -196,20 +196,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 27e1b00f8c1cadae0800000000000000
-      internalID: -1523692455146611086
+      spriteID: 96088dec3c86ce220800000000000000
+      internalID: 2516501481991471209
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: cajas chicas_3
+      name: GatoBug-IDLE 1_3
       rect:
         serializedVersion: 2
-        x: 442
-        y: 0
-        width: 1458
-        height: 1426
+        x: 3828
+        y: 210
+        width: 626
+        height: 990
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -218,20 +218,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f31865f1406d1b4e0800000000000000
-      internalID: -1967556248990219969
+      spriteID: 41f46e9503c9558e0800000000000000
+      internalID: -1705285152409235692
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: cajas chicas_4
+      name: GatoBug-IDLE 1_4
       rect:
         serializedVersion: 2
-        x: 2430
-        y: 14
-        width: 1458
-        height: 1427
+        x: 4983
+        y: 210
+        width: 696
+        height: 990
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -240,20 +240,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ce30c67b43511e6c0800000000000000
-      internalID: -4115985268280130580
+      spriteID: 20ecbbdf3b4e27dd0800000000000000
+      internalID: -2489676182275240446
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: cajas chicas_5
+      name: GatoBug-IDLE 1_5
       rect:
         serializedVersion: 2
-        x: 4418
-        y: 29
-        width: 1458
-        height: 1427
+        x: 6138
+        y: 210
+        width: 647
+        height: 990
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -262,20 +262,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7a179013c48057a90800000000000000
-      internalID: -7316932896260263513
+      spriteID: 781c95ad2c7e5fd10800000000000000
+      internalID: 2158886420467007879
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: cajas chicas_6
+      name: GatoBug-IDLE 1_6
       rect:
         serializedVersion: 2
-        x: 6929
-        y: 29
-        width: 1458
-        height: 1427
+        x: 7293
+        y: 210
+        width: 626
+        height: 990
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -284,20 +284,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 99cd31633c1e88c50800000000000000
-      internalID: 6667827476864162969
+      spriteID: bd8b037ba35697bc0800000000000000
+      internalID: -3784882708972259109
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: cajas chicas_7
+      name: GatoBug-IDLE 1_7
       rect:
         serializedVersion: 2
-        x: 8917
-        y: 44
-        width: 1458
-        height: 1427
+        x: 8448
+        y: 210
+        width: 696
+        height: 990
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -306,20 +306,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 41b3da5337ac2e690800000000000000
-      internalID: -7574269027113157868
+      spriteID: 216c2095431174640800000000000000
+      internalID: 5064035222530737682
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: cajas chicas_8
+      name: GatoBug-IDLE 1_8
       rect:
         serializedVersion: 2
-        x: 10905
-        y: 59
-        width: 1458
-        height: 1427
+        x: 9603
+        y: 210
+        width: 647
+        height: 990
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -328,8 +328,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: bedcefbb449927550800000000000000
-      internalID: 6157152161059753451
+      spriteID: 2da7f5d598e8a5e60800000000000000
+      internalID: 7951824812704234194
       vertices: []
       indices: 
       edges: []
@@ -348,15 +348,15 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      cajas chicas_0: -404473345915693932
-      cajas chicas_1: 6935604387736627318
-      cajas chicas_2: -1523692455146611086
-      cajas chicas_3: -1967556248990219969
-      cajas chicas_4: -4115985268280130580
-      cajas chicas_5: -7316932896260263513
-      cajas chicas_6: 6667827476864162969
-      cajas chicas_7: -7574269027113157868
-      cajas chicas_8: 6157152161059753451
+      GatoBug-IDLE 1_0: 8829540279433632906
+      GatoBug-IDLE 1_1: 4947253793526914243
+      GatoBug-IDLE 1_2: 2516501481991471209
+      GatoBug-IDLE 1_3: -1705285152409235692
+      GatoBug-IDLE 1_4: -2489676182275240446
+      GatoBug-IDLE 1_5: 2158886420467007879
+      GatoBug-IDLE 1_6: -3784882708972259109
+      GatoBug-IDLE 1_7: 5064035222530737682
+      GatoBug-IDLE 1_8: 7951824812704234194
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

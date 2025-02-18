@@ -61,7 +61,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -347,7 +347,16 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      GatoBug-IDLE_0: 1499741826356964439
+      GatoBug-IDLE_1: -6649114843763833048
+      GatoBug-IDLE_2: 8694843220947556004
+      GatoBug-IDLE_3: -4709795666616325617
+      GatoBug-IDLE_4: -3989099146364656823
+      GatoBug-IDLE_5: -8168695342180935238
+      GatoBug-IDLE_6: -2076323518003537730
+      GatoBug-IDLE_7: 2390996165969898977
+      GatoBug-IDLE_8: 6488016423437539572
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
